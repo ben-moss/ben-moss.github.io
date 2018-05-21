@@ -1,52 +1,38 @@
 ## Bio
 
-- Worked in <span class="highlight">Academia</span> and <span class="highlight">Financial Industry</span> (as a Techie)
+- 20 years of solving complex problems
+- Both <span class="highlight">Academia</span> and <span class="highlight">Financial Industry</span> (as a Techie)
 - Pioneer of <span class="highlight">Platform Engineering</span> Principles (aka DevOps)
 - Loves Formula 1 (strategy vs tactics)
 
 ---
 
-## 10 Years in Academia
+## Problem Areas
 
-- Research Areas
+- Academia
   - Crypto and Security
   - Computer-aided Learning
-- Solving Complexity Problems
-    - Visualization
-    - Automation
-    - Distribution and Release Management
-    - Quality
-    - Security
-
----
-
-## 10 Years in Financial Industry
-
-- Financial Sectors
+- Finance <!-- .element: class="fragment" -->
   - Investment Banking: Thomson Reuters
-  - Consumer Banking Capital One
-- Solving Complexity Problems
+  - Consumer Banking: Capital One
+
+---
+
+- Huge programmes of change
+  - SW/Infra/Service Delivery
+  - Outsourcing/Insourcing
+  - Regulation and Compliance
+  - 6-24 month projects
+  - Lots of legacy systems
+
+---
+
+- Common Solution Themes
     - Visualization
     - Automation
     - Distribution and Release Management
     - Quality
     - Security
-
----
-
-## Thomson Reuters
-
-- Multiple lines of business:
-  - Finance
-  - Law
-  - Medical
-  - Science
-- Distributed across the world
-- Customers: Large banks
-- Projects:
-  - Typically multi-year
-  - Quarterly big releases
-  - Very large codebases (5-15 years old)
 
 ---
 

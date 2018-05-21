@@ -36,7 +36,7 @@
 
 ## Process Anatomy
 
-<object type="image/svg+xml" data="assets/background/theory/snowflakes-process1.svg"></object>
+<object type="image/svg+xml" data="assets/background/theory/process-anatomy-1.svg"></object>
 
 ---
 
@@ -44,12 +44,13 @@
 
 ## Process Anatomy
 
-<object type="image/svg+xml" data="assets/background/theory/snowflakes-process2.svg"></object>
+<object type="image/svg+xml" data="assets/background/theory/process-anatomy-2.svg"></object>
 
 ---
 
 ## Process Model / Breakdown
 
-[use diagram of how processes link together]
-
----
+<object type="image/svg+xml" data="assets/background/theory/business-process-model.svg">
+	<param id="department" class="fragment" data-fragment-index="1">
+	<param id="team" class="fragment" data-fragment-index="2">
+</object>

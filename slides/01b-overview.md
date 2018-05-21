@@ -1,13 +1,13 @@
 ## Overview
 
-- Background:
-  - Brief History
+- Background
+<!--   - Brief History
   - Bio
   - Processes
-  - Automation
-- Examples:
-  - Student Assessments
+  - Automation -->
+- Use Cases
+<!--   - Student Assessments
   - Server Builds
   - Disaster Recovery
-  - Govenance and Compliance
-- Strategy
+  - Govenance and Compliance -->
+- Considerations
