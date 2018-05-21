@@ -39,10 +39,40 @@
 		<div class="reveal">
 
 			<div class="slides">
-				<section data-markdown="slides/01-title.md"></section><!--  data-background="assets/collision.png" data-state="dimbg"></section> -->
+				<!-- 
+				<section data-transition="none" data-background="https://media.giphy.com/media/5e0n3lu0p42kprOus8/giphy.gif">
+					<h1>Test 1</h1>
+				</section>
+				<section data-transition="none" data-background="https://media.giphy.com/media/5e0n3lu0p42kprOus8/giphy.gif">
+					<h1>Test 2</h1>
+				</section>
+				<section data-transition="none" data-background="https://media.giphy.com/media/5e0n3lu0p42kprOus8/giphy.gif">
+					<h1>Test 3</h1>
+				</section>
+				<section data-transition="none" data-background="https://media.giphy.com/media/8URhokCiR59hCTTWgB/giphy.gif"></section>
+				-->
+
+				<section data-markdown="slides/01a-title.md" data-background="assets/cover/collision.png"></section>
 
 				<section>
-					<section data-markdown="slides/02-overview.md"></section><!--  data-background="assets/uni_jubilee.jpg"></section> -->
+					<section data-markdown="slides/01b-overview.md" data-background="assets/cover/collision.png"></section>
+				</section>
+
+				<section>
+					<section data-markdown="slides/02-history.md"></section>
+				</section>
+
+				<section>
+					<object type="image/svg+xml" data="assets/examples/build/snowflakes-server-build1.svg">
+						<param id="purple" class="fragment" data-fragment-index="1">
+						<param id="green" class="fragment" data-fragment-index="2">
+						<param id="red" class="fragment" data-fragment-index="3">
+						<param id="blue" class="fragment" data-fragment-index="4">
+					</object>
+				</section>
+
+				<section data-transition="none">
+					<object type="image/svg+xml" data="assets/examples/build/snowflakes-process1.svg"></object>
 				</section>
 
 				<section>
@@ -92,6 +122,8 @@
 				progress: true,
 				history: true,
 				center: true,
+				width: 1280,
+				height: 720,
 
 				transition: 'slide', // none/fade/slide/convex/concave/zoom
 				   // Parallax background image
@@ -108,6 +140,7 @@
                     { src: 'revealjs/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
 					{ src: 'revealjs/plugin/zoom-js/zoom.js', async: true },
 					{ src: 'revealjs/plugin/notes/notes.js', async: true },
+					{ src: 'assets/js/inline_svg.js', async: true },
 				]
 			});
 		</script>

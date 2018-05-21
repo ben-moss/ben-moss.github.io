@@ -1,7 +1,7 @@
 ## Overview
 
-- Themes
 - Background:
+  - Brief History
   - Bio
   - Processes
   - Automation
