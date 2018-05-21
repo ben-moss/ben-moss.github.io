@@ -32,25 +32,19 @@
 
 ---
 
+<!-- slide: data-transition="none" -->
+
 ## Process Anatomy
 
-[use diagram]
-
-- input
-- transformation
-- output
-- within an environment
+<object type="image/svg+xml" data="assets/background/theory/snowflakes-process1.svg"></object>
 
 ---
 
+<!-- slide: data-transition="none" -->
+
 ## Process Anatomy
 
-[use diagram]
-
-- triggers
-- signals
-- instructions
-- resources + tools
+<object type="image/svg+xml" data="assets/background/theory/snowflakes-process2.svg"></object>
 
 ---
 
@@ -59,40 +53,3 @@
 [use diagram of how processes link together]
 
 ---
-
-## Process Measures and Tradeoffs [might ditch]
-
-[random layout of the following points]
-
-- Risk
-- Complexity
-- Consistency
-- Safety
-- Frequency
-- Speed
-- Scale
-- Fun
-- Speed
-- Security
-- Space
-- Stability
-
----
-
-## Businesses: Highly-complex Systems
-
-- Not all inputs/outputs are known/obvious
-- Highly-dynamic:
-  - Chaotic feedback cycles
-  - Difficult to predict impact
-  - Difficult to measure impact
-  - Difficult to respond to change
-
----
-
-## Businesses: Highly-complex Systems
-
-- Humans adapt well in complex systems
-  - We evolved this way
-  - Not so great at repetitive precise processes*
-    - * (relative to a machine)

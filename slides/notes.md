@@ -1,66 +1,43 @@
-A Brief History of Process Automation
-=====================================
+---
 
-[GM image]
-The term Automation wasn't widely used until 1947 - General Motors est. an Automation Department.
+[need to condense the following slides]
 
-[Automaton dictionary entry]
-Prior to that the more common terms were Automatic and Automaton - a machine which performs a range of functions according to a predetermined set of coded instructions.
+## Themes
 
-[punch card]
-That description might conjour up images of a punch card - the original keyboard, hard disk, floppy disk, and RAM all in one! But this idea even pre-dates early computing devices...
+- People <!-- .element: class="fragment" -->
+- Process <!-- .element: class="fragment" -->
+- Technology <!-- .element: class="fragment" -->
 
-[Ask the audience: Any ideas where and when the original punch cards were used?]
+---
 
-[Industrial revolution]
-~~~1760-1840 Transition to new manufacturing processes: Hand production methods -> machines.
+## People
 
-[factories]
-Steam and factories - it was was a golden age for Britain where many of the inventions originated from
+- Skills and Learning
+- Values and Behaviours
+- Teamwork and Collaboration
 
-[loom with punch cards]
-The dominant industry through the period was textiles, and this is what led to the invention of the punch card - to describe power loom weaving patterns.
+---
 
-Throughout the industrial revolutionmany improvements were made to the looms used for textile production, but even by the end of the period, no truely autonomous loom had been invented...
+## Process
 
-xafter the industrial revolution, a
+- Usual (BAU)
+- Transitional (Change)
+- Reactional (Emergency Response)
 
+---
 
+## Technology
 
+- Tools and Resources
+- Hardware and Software
+- Data and Information
 
+---
 
-
-Picture the scene... 18?? industrial rev...
-workhouse full of weaving looms
-automation... building quality into the system
-
-Fast forward X years. It's the 1980s...
-What a decade! What do you associate with the 80s?
-Music, TV series, films... What films? [get examples]
-
-War Games, Wierd Science, Airplane [auto pilot]
-
-Computers featured a lot - they were still novel enough to be the central plot subject, especially with the "Cold War" and James Bond films...
-
-All that stuff facinated me... I wanted to build James Bond gadgets and computer defense systems that could automate people out of dangerous situations...
-
-Fast forward another 20 years... I work in academia...
-
-Ten years on... I'm a software engineer working on stock market trading systems...
+Collectively, these themes define your <span class="highlight">Culture</span>
 
 
 
-
-History
-
-In 1896, Sakichi Toyoda invented Japan's first self-powered loom called the "Toyoda Power Loom."
-
-Iterative improvements:
-- Weft-breakage automatic stopping device (stopped the loom when a thread breakage was detected);
-- Warp supply device 
-- Automatic shuttle changer.
-
- Then, in 1924, Sakichi invented the world's first automatic loom, called the "Type-G Toyoda Automatic Loom (with non-stop shuttle-change motion)" which could change shuttles without stopping operation.
 
 Jido
 The Toyota term applied to a machine with a built-in device for making judgments
@@ -113,8 +90,6 @@ Strip out highly technical/theoretical elements
 ---
 
 Tie message into complexity of cloud transition and how automation is key to success and leverage of that.
-
-Finish use cases
 
 ---
 

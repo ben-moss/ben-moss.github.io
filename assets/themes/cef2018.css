@@ -301,6 +301,10 @@ body {
   transform: scale(0.9);
 }
 
+.reveal section object {
+  transform: scale(0.5);
+}
+
 .reveal section h2 {
   background: rgba(0, 0, 0, 0.45);
   /*opacity: 1 !important;*/

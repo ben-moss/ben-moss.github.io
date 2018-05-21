@@ -101,9 +101,3 @@
   - Various types of Consultancy
   - Various types of Managed Service
   - Several Internal Innovation initiatives
-
----
-
-## Achievements
-
-### ...

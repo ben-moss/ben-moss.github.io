@@ -1,8 +1,11 @@
 ## Server Builds
 
-- Problems
-
-[illustrated by adding snowflakes diagram sequence]
+<object type="image/svg+xml" data="assets/examples/build/snowflakes-server-build1.svg">
+	<param id="purple" class="fragment" data-fragment-index="1">
+	<param id="green" class="fragment" data-fragment-index="2">
+	<param id="red" class="fragment" data-fragment-index="3">
+	<param id="blue" class="fragment" data-fragment-index="4">
+</object>
 
 ---
 
