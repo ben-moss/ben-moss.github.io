@@ -4,7 +4,7 @@
   - Reduce complexity <!-- .element: class="fragment" -->
   - Reduce time <!-- .element: class="fragment" -->
   - Increase quality <!-- .element: class="fragment" -->
-  - Reduce risk <!-- .element: class="fragment" -->
+  - Increase safety / reduce risk <!-- .element: class="fragment" -->
 
 ---
 
@@ -50,10 +50,3 @@
   - Build quality in
   - Create and shorten feedback loops
   - Use metrics to measure progress
-
----
-
-- Foster a culture for getting stuff done
-  - Ownership
-  - Collaboration
-  - Transparency

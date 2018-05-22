@@ -1,5 +1,6 @@
 ### What is Automation?
 
+Note:
 - 10 Levels of Automation Maturity
   - Level 1: All manual
   - ...
@@ -9,16 +10,19 @@
 
 ## Automation Examples
 
-- Gears in a car
-- Kettles that stop when boiling
-- Autopilot in aircraft
-- Password reset on web apps
-- Smart home devices
+- Gears in a car <!-- .element: class="fragment" -->
+- Kettles that stop when boiling <!-- .element: class="fragment" -->
+- Autopilot in aircraft <!-- .element: class="fragment" -->
+- Password reset on web apps <!-- .element: class="fragment" -->
+- Smart home devices <!-- .element: class="fragment" -->
 
 ---
 
-## Why Automate?
+<!-- .slide: data-background="../assets/background/theory/why-automate.png" -->
 
+<div style="position: relative; bottom: -5em; font-size: 16pt">Why Automate?</div>
+
+Note:
 - Deliver Business Outcomes
   - Increase Safety / Reduce Risk
   - Reduce Complexity
@@ -29,7 +33,7 @@
 ---
 
 ## How does automation achieve these?
-  - Repeatability of changes
-  - Repeatability of quality
-  - Faster outcome
-  - Faster feedback
+  - Repeatability of changes <!-- .element: class="fragment" -->
+  - Repeatability of quality <!-- .element: class="fragment" -->
+  - Faster outcome <!-- .element: class="fragment" -->
+  - Faster feedback <!-- .element: class="fragment" -->

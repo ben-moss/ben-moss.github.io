@@ -9,9 +9,14 @@
 
 ---
 
-- Solutions
+## Solution: Configuration Management
 
-[illustrated by config management diagrams]
+- Install packages, configure software, start/stop services
+- Ensure the state of a machine
+- Ensure policies and standards are in place
+- Provide history of changes for a system
+- Repeatable way to rebuild a system
+- Orchestrate a cluster of services together
 
 ---
 

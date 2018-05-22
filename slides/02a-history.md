@@ -48,7 +48,7 @@ A golden age for Britain where many of the inventions originated from
 
 <!-- .slide: data-background="../assets/background/history/jean-baptiste-falcon-semi-automated-loom.jpg" data-background-size="1280px 720px" -->
 
-<dir>By the end of the period, no truely autonomous loom had been invented...</dir>
+<div class="fragment">By the end of the period, no truely autonomous loom had been invented...</div>
 
 Note: This led to the invention of the punch card - to describe power loom weaving patterns.
 
@@ -97,23 +97,3 @@ A young carpenter called Sakichi Toyoda had been following the news of these mac
 
 <div style="margin: auto; background: rgba(0, 0, 0, 0.7); position: relative;
   width: 92%; bottom: -17em;">His name and ideas live on today in <span class="highlight">Toyota Industries</span>, which has passed down through several generation of his family, and has benefited from many of the original <span class="highlight">automation and lean management principles</span> Sakichi and his successors introduced.</div>
-
----
-
-Fast forward 60 years, and we're in the 1980s... what a decade!
-
----
-
-<!-- [images of the 80s] -->
-
-Music, TV series, films... What films? [get examples]
-
-War Games, Wierd Science, Airplane [auto pilot]
-
----
-
-Computers featured a lot - they were still novel enough to be the central plot subject, especially with the "Cold War" and James Bond films...
-
----
-
-All that stuff facinated me... I wanted to build James Bond gadgets and computer defense systems that could automate people out of dangerous situations...

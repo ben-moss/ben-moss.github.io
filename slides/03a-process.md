@@ -53,7 +53,4 @@
 
 ## Process Model / Breakdown
 
-<object type="image/svg+xml" data="assets/background/theory/business-process-model.svg#business">
-	<param id="department" class="fragment" data-fragment-index="1">
-	<param id="team" class="fragment" data-fragment-index="2">
-</object>
+<object type="image/svg+xml" data="assets/background/theory/business-process-model.svg#team"></object>

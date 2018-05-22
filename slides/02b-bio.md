@@ -1,9 +1,19 @@
 ## Bio
 
-- 20 years of solving complex problems
-- Both in <span class="highlight">Academia</span> and <span class="highlight">Financial Industry</span> (as a Techie)
+- Child of the 1980s (ish)
+- 20 years' experience <span class="highlight">solving complex problems</span>
 - Pioneer of <span class="highlight">Platform Engineering Principles</span> (aka DevOps)
-- Loves Formula 1 (strategy vs tactics)
+- Loves Formula 1 (<span class="highlight">strategy vs tactics</span>)
+
+Note:
+
+1980s / The Cold War / Spy Films / Super Vehicles
+
+Computers featured a lot in 80s films
+
+All that stuff facinated me... I wanted to build James Bond gadgets and computer defense systems that could automate people out of dangerous situations...
+
+- Both in Academia and Financial Industry (as a Techie)
 
 ---
 
@@ -33,6 +43,8 @@
     - Distribution and Release Management
     - Quality
     - Security
+
+Note:
 - Reinvention and Cultural Change
   - Wore Many Hats
   - Walked in Many Shoes
@@ -54,10 +66,13 @@
 
 ---
 
-## Centiq
+<img data-src="assets/cover/centiq_logo_RGB_LR.png" class="logo2">
 
-- A new challenge!
-  - _Bringing a DevOps mindset to a SAP professional services business_
+<div class="highlight">A new challenge!</div>
+
+<div class="fragment">_Bringing a DevOps mindset to a SAP professional services business_</div>
+
+Note:
 - Customers: Large Enterprises to SMBs
   - On the other side of the fence!
 - Projects:

@@ -4,10 +4,15 @@
 
 ## Ask me about...
 
-- Culture
-- Innovation
-- Strategy vs. Tactics
-- Lean and Agile
-  - The BuzzWords: DevOps, Automation, Continuous Integration/Delivery, Anything as Code, Open Source, ...
-  - (and Formula One!)
+|                      |                       |
+|:--------------------:|:---------------------:|
+|        Culture       |       Automation      |
+|      Innovation      | Continous Integration |
+| Strategy vs. Tactics |  Continuous Delivery  |
+|         Lean         |   Everything as Code  |
+|         Agile        |   Config Management   |
+|        DevOps        |      Open Source      |
+| Process Improvement  |      Compliance       |
+
+(and Formula One!)
   

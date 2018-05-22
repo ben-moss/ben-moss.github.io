@@ -7,11 +7,11 @@
     - Consistency
   - Maintaining a healthy service state can be:
     - Costly (labour intensive)
-    - risky (error prone)
-    - time consuming (detracting from higher value work)
+    - Risky (error prone)
+    - Time consuming (detracting from higher value work)
     - Complex to co-ordinate
 
----
+Note:
 
 Specifications capture decisions made during the design to create a platform that delivers the service you require in terms of security, resilience, performance and ongoing maintenance. But the questions to be asked are:
 
@@ -25,14 +25,18 @@ Minimise cost of ownership (throughout product lifecycle)
 Improve confidence in IT (People, Process and Technology)
 Conform to security and external regulation
 
-
-
 ---
 
 - Solutions:
-  - 
+  - Automated testing
+  - Automated provisioning
+  - Automated scheduling
 
 ---
 
 ## Business Outcomes Delivered
+  - Relatively simple to understand state of compliance
+  - Ability to drill down on identified high-level audit rules
+  - Ability to restore state of system back to compliance
+  - Ability to audit and version infrastructure statuses
 
