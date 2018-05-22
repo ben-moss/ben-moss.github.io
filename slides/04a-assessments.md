@@ -6,6 +6,8 @@
   - Consistency in marking was a problem
   - Students often resorted to plagiarism
 
+---
+
 - Solutions
   - Automate assessment generation process
     - Each student generated a slightly different problem
@@ -20,7 +22,7 @@
 
 - Total marking time reduced
   - From: ~18 person days / year
-  - To 1-hour batch process
+  - To: 1-hour batch process
   - Creates the ability to re-assess with low impact
   - More time for valuable research and innovation
 - Quality and consitency went up

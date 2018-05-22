@@ -1,6 +1,6 @@
 ## Server Builds
 
-<object type="image/svg+xml" data="assets/examples/build/snowflakes-server-build1.svg">
+<object type="image/svg+xml" data="assets/examples/build/snowflakes-server-build1.svg#grey">
 	<param id="purple" class="fragment" data-fragment-index="1">
 	<param id="green" class="fragment" data-fragment-index="2">
 	<param id="red" class="fragment" data-fragment-index="3">

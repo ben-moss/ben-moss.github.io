@@ -109,3 +109,18 @@ Use examples from Engineering work/demos
   - Contrast: Quality checks
   - Timing involved
   - Where costly parts of project delivery are
+
+
+
+				 <!-- 
+				<section data-transition="none" data-background="https://media.giphy.com/media/5e0n3lu0p42kprOus8/giphy.gif">
+					<h1>Test 1</h1>
+				</section>
+				<section data-transition="none" data-background="https://media.giphy.com/media/5e0n3lu0p42kprOus8/giphy.gif">
+					<h1>Test 2</h1>
+				</section>
+				<section data-transition="none" data-background="https://media.giphy.com/media/5e0n3lu0p42kprOus8/giphy.gif">
+					<h1>Test 3</h1>
+				</section>
+				<section data-transition="none" data-background="https://media.giphy.com/media/8URhokCiR59hCTTWgB/giphy.gif"></section>
+				 -->

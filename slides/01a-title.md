@@ -1,20 +1,12 @@
-<span class="highlight" style="font-size: 44px; font-weight: bold;">Centiq</span>
-
-<img data-src="assets/cover/centiq_logo.svg" class="logo">
-
-### [Ben Moss](mailto:bmoss@centiq.co.uk)
+<div style="height: 8em"></div>
 
 # Process Automation
 
 #### _Bringing a <span class="highlight">DevOps mindset</span> to Enterprise IT_
 
+### [Ben Moss](mailto:bmoss@centiq.co.uk)
+
+<img data-src="assets/cover/centiq_logo_REV_LR.png" class="logo">
 
 
-
- 
-
-
-
-[comment]: # ([www.linkedin.com/in/ben-moss](https://www.linkedin.com/in/ben-moss))
-
-[comment]: # ([@PassionForPie](http://twitter.com/PassionForPie))
+Note: I head up the Engineering Team at Centiq

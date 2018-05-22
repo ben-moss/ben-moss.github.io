@@ -1,13 +1,7 @@
-## Overview
+Overview
+========
 
 - Background
-<!--   - Brief History
-  - Bio
-  - Processes
-  - Automation -->
+- Theory
 - Use Cases
-<!--   - Student Assessments
-  - Server Builds
-  - Disaster Recovery
-  - Govenance and Compliance -->
 - Considerations

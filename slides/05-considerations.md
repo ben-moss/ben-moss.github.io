@@ -24,7 +24,7 @@
 
 ## Process
 
-- How does your strategy align across processes?
+- How does your strategy align across process types?
   - E.g. what are the overlaps between Innovation, BAU and support?
 
 ---

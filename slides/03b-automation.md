@@ -1,25 +1,29 @@
 ### What is Automation?
 
-[ask the audience]
+- 10 Levels of Automation Maturity
+  - Level 1: All manual
+  - ...
+  - Level 10: Computer acts alone
 
-<!-- 
-- Difference between terms:
-  - Automate
-  - Automation
-  - Automatic
-  - Automated
-  - Automaton
--->
+---
+
+## Automation Examples
+
+- Gears in a car
+- Kettles that stop when boiling
+- Autopilot in aircraft
+- Password reset on web apps
+- Smart home devices
 
 ---
 
 ## Why Automate?
 
 - Deliver Business Outcomes
+  - Increase Safety / Reduce Risk
   - Reduce Complexity
   - Reduce Time
   - Increase Quality
-  - Reduce Risk
   - Reduce Costs
 
 ---

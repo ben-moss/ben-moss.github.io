@@ -65,15 +65,16 @@ body {
   font-size: 1.8em; }
 
 .reveal h3 {
-  font-size: 1.6em;
-  color: #28abe2; }
+  font-size: 1.4em;
+  color: #28abe2;
+  letter-spacing: 2px; }
 
 .reveal h4 {
-  font-size: 1.4em;
+  font-size: 1.2em;
   letter-spacing: 2px; }
 
 .reveal h5 {
-  font-size: 1.2em; }
+  font-size: 1.1em; }
 
 .reveal h6 {
   font-size: 1.0em;
@@ -293,21 +294,30 @@ body {
 }
 */
 
+/*.reveal .slides .intro-title:before {
+  content: url();
+  position: fixed;
+  bottom: 0em;
+  align-content: center;
+  right: 0em;
+  transform: scale(0.15);
+}
+*/
+
 .reveal .highlight {
   color: #38bbf2; }
 }
 
-.reveal svg {
-  transform: scale(0.9);
-}
-
-.reveal section object {
+/*.reveal section object {
   transform: scale(0.5);
-}
+}*/
 
-.reveal section h2 {
-  background: rgba(0, 0, 0, 0.45);
-  /*opacity: 1 !important;*/
+.dark-overlay {
+  margin: auto;
+  background: rgba(0, 0, 0, 0.7);
+  position: relative;
+  top: -5em;
+  width: 92%;
 }
 
 .reveal section img.logo {
@@ -315,8 +325,13 @@ body {
   background: none;
   border: none;
   box-shadow: none;
+  position: relative;
+  bottom: -5em;
+  transform: scale(0.3);
 }
 
-svg {
-  transform: scale(0.5) translate(0px, -400px);
+.slides {
+    position: absolute;
+    top: 0;
+    left: 0;
 }

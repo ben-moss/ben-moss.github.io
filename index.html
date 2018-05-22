@@ -1,6 +1,5 @@
 <!doctype html>
 <html lang="en">
-
 	<head>
 		<meta charset="utf-8">
 
@@ -39,59 +38,52 @@
 		<div class="reveal">
 
 			<div class="slides">
-				<!-- 
-				<section data-transition="none" data-background="https://media.giphy.com/media/5e0n3lu0p42kprOus8/giphy.gif">
-					<h1>Test 1</h1>
-				</section>
-				<section data-transition="none" data-background="https://media.giphy.com/media/5e0n3lu0p42kprOus8/giphy.gif">
-					<h1>Test 2</h1>
-				</section>
-				<section data-transition="none" data-background="https://media.giphy.com/media/5e0n3lu0p42kprOus8/giphy.gif">
-					<h1>Test 3</h1>
-				</section>
-				<section data-transition="none" data-background="https://media.giphy.com/media/8URhokCiR59hCTTWgB/giphy.gif"></section>
-				-->
 
-				<section data-markdown="slides/01a-title.md" data-background="assets/cover/collision.png"></section>
+				<section data-transition="zoom">
+					<section data-markdown="slides/01a-title.md" data-background="assets/cover/collision.png"></section>
+				</section>
+<!-- 				<section data-transition="zoom">
+					<section data-markdown="slides/01b-overview.md" data-transition="none"></section>
+				</section> -->
+
 
 				<section>
-					<section data-markdown="slides/01b-overview.md"></section>
+					<section data-markdown># Background</section>					
 				</section>
+				<section>
+					<section data-markdown="slides/02a-history.md"></section>
+				</section>
+				<section>
+					<section data-markdown="slides/02b-bio.md"></section><!--  data-background="assets/pipeline.png"></section> -->
+				</section>
+
 
 				<section>
-					<section data-markdown="slides/02-history.md"></section>
+					<section data-markdown># Theory</section>
+					<section data-markdown="slides/03a-process.md"></section><!--  data-background="assets/pipeline.png"></section> -->
 				</section>
+				<section>
+					<section data-markdown="slides/03b-automation.md"></section><!--  data-background="assets/pipeline.png"></section> -->
+				</section>
+
 
 				<section>
-					<section data-markdown="slides/03a-bio.md"></section><!--  data-background="assets/pipeline.png"></section> -->
+					<section data-markdown># Use Cases</section>
+					<section data-markdown="slides/04b-server-builds.md"></section><!--  data-background="assets/tr_logo.jpg"></section> -->
 				</section>
-
 				<section>
-					<section data-markdown="slides/03b-process.md"></section><!--  data-background="assets/pipeline.png"></section> -->
+					<section data-markdown="slides/04c-disaster-recovery.md"></section><!--  data-background="assets/tr_logo.jpg"></section> -->
 				</section>
-
 				<section>
-					<section data-markdown="slides/03c-automation.md"></section><!--  data-background="assets/pipeline.png"></section> -->
+					<section data-markdown="slides/04d-compliance.md"></section><!--  data-background="assets/tr_logo.jpg"></section> -->
 				</section>
-
 				<section>
 					<section data-markdown="slides/04a-assessments.md"></section><!--  data-background="assets/tr_logo.jpg"></section> -->
 				</section>
 
-				<section>
-					<section data-markdown="slides/04b-server-builds.md"></section><!--  data-background="assets/tr_logo.jpg"></section> -->
-				</section>
 
 				<section>
-					<section data-markdown="slides/04c-disaster-recovery.md"></section><!--  data-background="assets/tr_logo.jpg"></section> -->
-				</section>
-
-				<section>
-					<section data-markdown="slides/04d-compliance.md"></section><!--  data-background="assets/tr_logo.jpg"></section> -->
-				</section>
-
-				<section>
-					<section data-markdown="slides/05-strategy.md"></section><!--  data-background="assets/tr_logo.jpg"></section> -->
+					<section data-markdown="slides/05-considerations.md"></section><!--  data-background="assets/tr_logo.jpg"></section> -->
 				</section>
 
 				<section>
@@ -112,7 +104,7 @@
 				width: 1280,
 				height: 720,
 
-				transition: 'slide', // none/fade/slide/convex/concave/zoom
+				transition: 'none', // none/fade/slide/convex/concave/zoom
 				   // Parallax background image
 			    //parallaxBackgroundImage: 'assets/collision.png', // e.g. "https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg"
 
@@ -128,6 +120,7 @@
 					{ src: 'revealjs/plugin/zoom-js/zoom.js', async: true },
 					{ src: 'revealjs/plugin/notes/notes.js', async: true },
 					{ src: 'assets/js/inline_svg.js', async: true },
+					{ src: 'assets/reveal-svg-fragment.js', condition: function() { return !!document.querySelector( '[data-svg-fragment]' ); } },
 				]
 			});
 		</script>
