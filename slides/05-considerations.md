@@ -1,52 +1,50 @@
-## The Goal
-
-- Sustainably enable growth whilst controlling costs
-  - Reduce complexity <!-- .element: class="fragment" -->
-  - Reduce time <!-- .element: class="fragment" -->
-  - Increase quality <!-- .element: class="fragment" -->
-  - Increase safety / reduce risk <!-- .element: class="fragment" -->
-
----
-
-## Strategy
+### Culture
 
 - People
 - Process
 - Technology
 
+Notes:
+
+## The Goal
+
+<!-- - Sustainably enable growth whilst controlling costs -->
+  <!-- - Reduce complexity .element: class="fragment" -->
+  <!-- - Reduce time .element: class="fragment" -->
+  <!-- - Increase quality .element: class="fragment" -->
+  <!-- - Increase safety / reduce risk .element: class="fragment" -->
+
 ---
 
-## People
+### People
 
-[Pose questions about people/skills in relation to process automation]
+- Skills gaps?
+- Anything else?
 
 ---
 
-## Process
+### Process
 
 - How does your strategy align across process types?
+
+Note:
   - E.g. what are the overlaps between Innovation, BAU and support?
 
 ---
 
-## Technology
+### Technology
 
 - Choose the right tools for the job?
 - Choose the right tools for your culture?
 
 ---
 
-### Culture: Guiding Principles
+### Culture: Process Automation Principles
 
----
-
-- Fast and light
-  - Smaller batches - faster feedback
-
----
-
-- Continuous Improvement
+- Continuous Improvement <!-- .element: class="fragment" -->
   - Do painful processes <span class="highlight">more</span> often!
-  - Build quality in
+  - Build quality/safety in
   - Create and shorten feedback loops
   - Use metrics to measure progress
+- Fast and light <!-- .element: class="fragment" -->
+  - Smaller batches - faster feedback

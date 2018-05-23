@@ -1,3 +1,5 @@
+<!-- .slide: data-background="../assets/examples/pipeline/andon-builds.jpg" -->
+
 ### What is Automation?
 
 Note:
@@ -8,7 +10,9 @@ Note:
 
 ---
 
-## Automation Examples
+<!-- .slide: data-background="../assets/examples/pipeline/andon-builds.jpg" -->
+
+### Automation Examples
 
 - Gears in a car <!-- .element: class="fragment" -->
 - Kettles that stop when boiling <!-- .element: class="fragment" -->
@@ -32,7 +36,9 @@ Note:
 
 ---
 
-## How does automation achieve these?
+<!-- .slide: data-background="../assets/examples/pipeline/andon-builds.jpg" -->
+
+### How does automation achieve these?
   - Repeatability of changes <!-- .element: class="fragment" -->
   - Repeatability of quality <!-- .element: class="fragment" -->
   - Faster outcome <!-- .element: class="fragment" -->

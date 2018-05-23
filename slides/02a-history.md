@@ -58,7 +58,7 @@ Throughout the industrial revolution, many improvements were made to the looms u
 
 <!-- .slide: data-background="../assets/background/history/Toyota_Sakichi_Birthplace.jpg" data-background-size="1280px 720px" -->
 
-<div style="position: relative; top: -10em;">News of the looms reached Japan</div> several decades later...</div>
+<div style="position: relative; top: -10em;">Several decades later, news of the looms reached Japan</div>
 
 Note: Several decades after the industrial revolution, news of the semi-automated looms had reached Japan, which was in a period of poverty at the time.
 

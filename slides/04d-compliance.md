@@ -1,15 +1,22 @@
-## Automated Compliance
+### Automated Compliance
 
-- Problems:
-  - Many factors mandate the need for compliance
-    - External governance and legislation
-    - Security
-    - Consistency
-  - Maintaining a healthy service state can be:
-    - Costly (labour intensive)
-    - Risky (error prone)
-    - Time consuming (detracting from higher value work)
-    - Complex to co-ordinate
+<!-- .slide: data-background="../assets/examples/compliance/audit.png" -->
+
+---
+
+<!-- .slide: data-background="../assets/examples/compliance/audit.png" -->
+
+### Problems
+
+- Many factors mandate the need for compliance <!-- .element: class="fragment" -->
+  - External governance and legislation
+  - Security
+  - Consistency
+- Maintaining a healthy service state can be: <!-- .element: class="fragment" -->
+  - Costly (labour intensive)
+  - Risky (error prone)
+  - Time consuming (detracting from higher value work)
+  - Complex to co-ordinate
 
 Note:
 
@@ -27,16 +34,21 @@ Conform to security and external regulation
 
 ---
 
-- Solutions:
-  - Automated testing
-  - Automated provisioning
-  - Automated scheduling
+<!-- .slide: data-background="../assets/examples/compliance/audit.png" -->
+
+### Solutions
+
+- Automated testing <!-- .element: class="fragment" -->
+- Automated provisioning <!-- .element: class="fragment" -->
+- Automated scheduling <!-- .element: class="fragment" -->
 
 ---
 
-## Business Outcomes Delivered
-  - Relatively simple to understand state of compliance
-  - Ability to drill down on identified high-level audit rules
-  - Ability to restore state of system back to compliance
-  - Ability to audit and version infrastructure statuses
+<!-- .slide: data-background="../assets/examples/compliance/audit.png" -->
 
+### Business Outcomes Delivered
+
+- Relatively simple to understand state of compliance <!-- .element: class="fragment" -->
+- Ability to drill down on identified high-level audit rules <!-- .element: class="fragment" -->
+- Ability to restore state of system back to compliance <!-- .element: class="fragment" -->
+- Ability to audit and version infrastructure statuses <!-- .element: class="fragment" -->

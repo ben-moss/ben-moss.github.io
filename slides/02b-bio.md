@@ -1,4 +1,6 @@
-## Bio
+<!-- .slide: data-background="../assets/background/bio/bio.png" -->
+
+### Bio
 
 - Child of the 1980s (ish)
 - 20 years' experience <span class="highlight">solving complex problems</span>
@@ -17,7 +19,9 @@ All that stuff facinated me... I wanted to build James Bond gadgets and computer
 
 ---
 
-## Problem Areas
+<!-- .slide: data-background="../assets/background/bio/bio.png" -->
+
+### Problem Areas
 
 - Academia
   - Crypto and Security
@@ -28,21 +32,27 @@ All that stuff facinated me... I wanted to build James Bond gadgets and computer
 
 ---
 
-- Huge programmes of change
-  - SW, Infra, Service Delivery
-  - Outsourcing &amp; Insourcing
-  - Regulation &amp; Compliance
-  - 6-24 month projects
-  - Lots of legacy systems
+<!-- .slide: data-background="../assets/background/bio/bio.png" -->
+
+### Huge programmes of change
+
+- SW, Infra, Service Delivery
+- Outsourcing &amp; Insourcing
+- Regulation &amp; Compliance
+- 6-24 month projects
+- Lots of legacy systems
 
 ---
 
-- Common Solution Themes
-    - Automation
-    - Visualization
-    - Distribution and Release Management
-    - Quality
-    - Security
+<!-- .slide: data-background="../assets/background/bio/bio.png" -->
+
+### Common Solution Themes
+
+- Automation
+- Visualization
+- Distribution and Release Management
+- Quality
+- Security
 
 Note:
 - Reinvention and Cultural Change
@@ -51,22 +61,26 @@ Note:
 
 ---
 
-## Achievements
+<!-- .slide: data-background="../assets/background/bio/bio.png" -->
 
-[infographic]
+### Achievements
 
-- Reduced end-to-end cycle time: 3-12 months to 1 day
-- Reduced deployment issues: 30+/release to zero
-- 80% reduction in 2nd and 3rd-level support escalations
+- Cycle time: 3-12 months to 1 day <!-- .element: class="fragment" -->
+- Deployment issues: 30+/release to zero <!-- .element: class="fragment" -->
+- 2nd and 3rd-level support escalations: 80% reduction <!-- .element: class="fragment" -->
+- Engineer onboarding and server provisioning: weeks to minutes <!-- .element: class="fragment" -->
+- Reduced Engineering costs: £2m/year saving <!-- .element: class="fragment" -->
+
+Note:
   - Apple store became the bottleneck for mobile!
-- Reduced Engineer onboarding and server provisioning times: weeks to minutes
   - Self-service onboarding and provisioning!
-- Reduced Engineering costs: £2m/year saving
   - Improvements across People, Process and Tech
 
 ---
 
-<img data-src="assets/cover/centiq_logo_RGB_LR.png" class="logo2">
+<!-- .slide: data-background="../assets/background/bio/bio.png" -->
+
+<img data-src="assets/cover/centiq_logo_REV_LR.png" class="logo2">
 
 <div class="highlight">A new challenge!</div>
 

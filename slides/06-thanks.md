@@ -2,7 +2,7 @@
 
 ---
 
-## Ask me about...
+### Ask me about...
 
 |                      |                       |
 |:--------------------:|:---------------------:|
@@ -14,5 +14,5 @@
 |        DevOps        |      Open Source      |
 | Process Improvement  |      Compliance       |
 
-(and Formula One!)
+(and Formula One!) <!-- .element: class="fragment" -->
   

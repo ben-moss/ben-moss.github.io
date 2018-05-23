@@ -1,5 +1,8 @@
+<!-- .slide: data-background="../assets/examples/pipeline/pipeline.png" -->
+
 ### What is a Process?
 
+Note:
 - 6 Levels of Process Maturity
   - Level 0: Person-Dependent Practices
   - ...
@@ -7,37 +10,43 @@
 
 ---
 
-## Process Examples
+<!-- .slide: data-background="../assets/examples/pipeline/pipeline.png" -->
 
-- Replacing the toner in a printer
-- Receiving a delivery of materials
-- Resetting an user's Azure security credentials
-- Building a HANA server
-- Disaster recovery
+### Process Examples
+
+- Replacing the toner in a printer <!-- .element: class="fragment" -->
+- Receiving a delivery of materials <!-- .element: class="fragment" -->
+- Resetting an user's Azure security credentials <!-- .element: class="fragment" -->
+- Building a HANA server <!-- .element: class="fragment" -->
+- Disaster recovery <!-- .element: class="fragment" -->
 
 ---
 
-<!-- slide: data-transition="none" -->
+<!-- .slide: data-background="../assets/examples/pipeline/pipeline.png" data-transition="none" -->
 
-## Process Anatomy
+### Process Anatomy
 
 <object type="image/svg+xml" data="assets/background/theory/process-anatomy-1.svg"></object>
 
 ---
 
-<!-- slide: data-transition="none" -->
+<!-- .slide: data-background="../assets/examples/pipeline/pipeline.png" data-transition="none" -->
 
-## Process Anatomy
+### Process Anatomy
 
 <object type="image/svg+xml" data="assets/background/theory/process-anatomy-2.svg"></object>
 
 ---
+
+<!-- .slide: data-background="../assets/examples/pipeline/pipeline.png" -->
 
 <div>What is the <span class="highlight">Goal</span> of a Business?</div>
 
 <div class="fragment">How does a Business Achieve its Goal?</div>
 
 ---
+
+<!-- .slide: data-background="../assets/examples/pipeline/pipeline.png" -->
 
 #### Raw Materials
 
@@ -51,6 +60,8 @@
 
 ---
 
-## Process Model / Breakdown
+<!-- .slide: data-background="../assets/examples/pipeline/pipeline.png" -->
+
+### Process Model / Breakdown
 
 <object type="image/svg+xml" data="assets/background/theory/business-process-model.svg#team"></object>
