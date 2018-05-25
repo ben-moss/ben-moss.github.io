@@ -13,8 +13,6 @@ Note: General Motors established an _Automation Department_
 
 ---
 
-<!-- .slide: data-background="../assets/background/history/automaton.png" data-background-size="1280px 720px" -->
-
 <div style="width: 50%; margin-left: 5%;">**Automaton:** _a machine which <span class="highlight">performs a range of functions according to a predetermined set of coded instructions</span>_</div>
 
 ---
@@ -93,7 +91,7 @@ A young carpenter called Sakichi Toyoda had been following the news of these mac
 
 ---
 
-<!-- .slide: data-background="../assets/background/history/toyota_andon.jpg" -->
+<!-- .slide: data-background="http://d1r57ja1amoclf.cloudfront.net/wp-content/uploads/2013/05/Kanban.jpg" -->
 
 <div style="margin: auto; background: rgba(0, 0, 0, 0.7); position: relative;
   width: 92%; bottom: -17em;">His name and ideas live on today in <span class="highlight">Toyota Industries</span>, which has passed down through several generation of his family, and has benefited from many of the original <span class="highlight">automation and lean management principles</span> Sakichi and his successors introduced.</div>

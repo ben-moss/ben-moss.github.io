@@ -57,11 +57,3 @@ Note:
 ### =  <!-- .element: class="fragment" -->
 
 #### Products and Services <!-- .element: class="fragment" -->
-
----
-
-<!-- .slide: data-background="../assets/examples/pipeline/pipeline.png" -->
-
-### Process Model / Breakdown
-
-<object type="image/svg+xml" data="assets/background/theory/business-process-model.svg#team"></object>
