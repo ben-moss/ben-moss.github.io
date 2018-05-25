@@ -344,3 +344,10 @@ body {
     top: 0;
     left: 0;
 }
+
+@media print {
+    .slide-background {
+        background-color: #303030 !important;
+        -webkit-print-color-adjust: exact; 
+    }
+}
