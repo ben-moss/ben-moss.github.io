@@ -1,10 +1,10 @@
 ### Automated Compliance
 
-<!-- .slide: data-background="../assets/examples/compliance/audit.png" -->
+<!-- .slide: data-background="../assets/examples/compliance/audit2.png" -->
 
 ---
 
-<!-- .slide: data-background="../assets/examples/compliance/audit.png" -->
+<!-- .slide: data-background="../assets/examples/compliance/audit2.png" -->
 
 ### Problems
 
@@ -34,7 +34,7 @@ Conform to security and external regulation
 
 ---
 
-<!-- .slide: data-background="../assets/examples/compliance/audit.png" -->
+<!-- .slide: data-background="../assets/examples/compliance/audit2.png" -->
 
 ### Solutions
 
@@ -44,7 +44,7 @@ Conform to security and external regulation
 
 ---
 
-<!-- .slide: data-background="../assets/examples/compliance/audit.png" -->
+<!-- .slide: data-background="../assets/examples/compliance/audit2.png" -->
 
 ### Business Outcomes Delivered
 
