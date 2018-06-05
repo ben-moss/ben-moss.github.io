@@ -38,9 +38,7 @@ Conform to security and external regulation
 
 ### Solutions
 
-- Automated testing <!-- .element: class="fragment" -->
-- Automated provisioning <!-- .element: class="fragment" -->
-- Automated scheduling <!-- .element: class="fragment" -->
+<img data-src="assets/examples/compliance/compliance.png">
 
 ---
 

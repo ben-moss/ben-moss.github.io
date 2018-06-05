@@ -33,6 +33,14 @@
 
 <!-- .slide: data-background="../assets/examples/dr/failover-manual.png" -->
 
+### Solution: Runbook Automation
+
+<img data-src="assets/examples/dr/runbook-process.png">
+
+---
+
+<!-- .slide: data-background="../assets/examples/dr/failover-manual.png" -->
+
 ### Business Outcomes Delivered
 
 - Expert resource reduced <!-- .element: class="fragment" -->

@@ -339,6 +339,14 @@ body {
   transform: scale(0.4);
 }
 
+.reveal.reveal img
+{
+    border: none;
+    box-shadow: none;
+    max-height: calc(75vh);
+    max-width: calc(75vw);
+}
+
 .slides {
     position: absolute;
     top: 0;

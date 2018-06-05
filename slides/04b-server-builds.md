@@ -35,12 +35,15 @@ Manually-built servers are fragile snowflakes
 
 ### Solution: Configuration Management
 
-- Install packages, configure software, start/stop services <!-- .element: class="fragment" -->
-- Ensure the state of a machine <!-- .element: class="fragment" -->
-- Ensure policies and standards are in place <!-- .element: class="fragment" -->
-- Provide history of changes for a system <!-- .element: class="fragment" -->
-- Repeatable way to rebuild a system <!-- .element: class="fragment" -->
-- Orchestrate a cluster of services together <!-- .element: class="fragment" -->
+<img data-src="assets/examples/build/config-management.png">
+
+---
+
+<!-- .slide: data-background="../assets/examples/build/snowflakes.png" -->
+
+### Solution: Configuration Management Examples
+
+<img data-src="assets/examples/build/config-management-examples.png">
 
 ---
 
