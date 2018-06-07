@@ -1,50 +1,47 @@
-### Culture
+### Takeaways
+
+<!-- .slide: data-background="../assets/takeaways/background.jpg" -->
+
+---
+
+### Takeaways: Culture
+
+<!-- .slide: data-background="../assets/takeaways/background.jpg" -->
 
 - People
-- Process
-- Technology
+  - Skills gaps
+- Process <!-- .element: class="fragment" -->
+  - How does your strategy align <span class="highlight">across</span> process types?
+- Technology <!-- .element: class="fragment" -->
+  - Choose the right tools for your <span class="highlight">culture</span>
 
 Notes:
-
-## The Goal
-
-<!-- - Sustainably enable growth whilst controlling costs -->
-  <!-- - Reduce complexity .element: class="fragment" -->
-  <!-- - Reduce time .element: class="fragment" -->
-  <!-- - Increase quality .element: class="fragment" -->
-  <!-- - Increase safety / reduce risk .element: class="fragment" -->
-
----
-
-### People
-
-- Skills gaps?
-- Anything else?
-
----
-
-### Process
-
-- How does your strategy align across process types?
-
-Note:
   - E.g. what are the overlaps between Innovation, BAU and support?
 
 ---
 
-### Technology
+### Takeaways: The Goal
 
-- Choose the right tools for the job?
-- Choose the right tools for your culture?
+<!-- .slide: data-background="../assets/takeaways/background.jpg" -->
+
+- Sustainably enable growth whilst controlling costs
+  - Reduce <span class="highlight">complexity</span>
+  - Reduce <span class="highlight">time</span>
+  - Increase <span class="highlight">quality</span>
+  - Increase <span class="highlight">safety</span> / reduce <span class="highlight">risk</span>
 
 ---
 
-### Culture: Process Automation Principles
+### Takeaways: Process Automation Principles
 
-- Continuous Improvement <!-- .element: class="fragment" -->
+<!-- .slide: data-background="../assets/takeaways/background.jpg" -->
+
+- Continuous Improvement
   - Do painful processes <span class="highlight">more</span> often!
-  - Build quality/safety in
-  - Create and shorten feedback loops
-  - Use metrics to measure progress
+  - Build quality/safety <span class="highlight">in</span>
+  - Create and shorten <span class="highlight">feedback loops</span>
+  - Use metrics to <span class="highlight">measure progress</span>
 - Fast and light <!-- .element: class="fragment" -->
-  - Smaller batches - faster feedback
+  - Make batches <span class="highlight">smaller</span> - faster feedback
+- Win over the business <!-- .element: class="fragment" -->
+  - <span class="highlight">Hack your culture</span>

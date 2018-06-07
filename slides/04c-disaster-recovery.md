@@ -43,19 +43,4 @@
 
 ### Business Outcomes Delivered
 
-- Expert resource reduced <!-- .element: class="fragment" -->
-  - From: 4+
-  - To: 0
-- Total recovery time reduced <!-- .element: class="fragment" -->
-  - From: 6-8 hours
-  - To: < 15 mins
-- Painful event became painless <!-- .element: class="fragment" -->
-  - No longer feared
-- Opened the door to further innovation <!-- .element: class="fragment" -->
-  - Handling more obscure edge cases
-  - Automating customer runbooks
-- Quality and consitency went up <!-- .element: class="fragment" -->
-  - No human error
-- Self-service portal <!-- .element: class="fragment" -->
-- Simplified Operator Process <!-- .element: class="fragment" -->
-  - "Paper" to Digital (Many trees were saved!)
+<img data-src="assets/examples/dr/dr-outcomes.png">

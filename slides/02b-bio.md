@@ -65,16 +65,7 @@ Note:
 
 ### Achievements
 
-- Cycle time: 3-12 months to 1 day <!-- .element: class="fragment" -->
-- Deployment issues: 30+/release to zero <!-- .element: class="fragment" -->
-- 2nd and 3rd-level support escalations: 80% reduction <!-- .element: class="fragment" -->
-- Engineer onboarding and server provisioning: weeks to minutes <!-- .element: class="fragment" -->
-- Reduced Engineering costs: £2m/year saving <!-- .element: class="fragment" -->
-
-Note:
-  - Apple store became the bottleneck for mobile!
-  - Self-service onboarding and provisioning!
-  - Improvements across People, Process and Tech
+<img data-src="assets/background/bio/achievements.png">
 
 ---
 

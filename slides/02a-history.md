@@ -13,6 +13,8 @@ Note: General Motors established an _Automation Department_
 
 ---
 
+<!-- .slide: data-background="../assets/background/history/automaton.png" data-background-size="1280px 720px" -->
+
 <div style="width: 50%; margin-left: 5%;">**Automaton:** _a machine which <span class="highlight">performs a range of functions according to a predetermined set of coded instructions</span>_</div>
 
 ---
