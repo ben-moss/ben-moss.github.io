@@ -8,7 +8,7 @@ Infrastructure as Code (IaC) is a term used to describe a collection of practice
 
 Defining infrastructure as code goes way beyond scripting or config management - it enables engineers to leverage many of the well-established good practices that software engineers have been using for decades. Not just fundamental programming constructs like variables, conditionals and loops, but higher level abstractions such as design patterns, and highly effective practices such as version control, dependency management, automated testing, continuous integration, and continuous delivery.
 
-Centiq leverage IaC to removes the complexity of SAP landscape management - simplifying operational activities into automated workflows such as _build system_, _stop system_, _start system_, or _failover system_; and keeping this consistent across all system types whether they are clustered, have DR capabilities, or even across different SAP products such as S/4HANA or BW/4HANA. Even OS-specific differences are encapsulated within the workflow, so the user experience is identical nomatter what OS is your preference.
+Centiq leverage IaC to remove the complexity of SAP landscape management - simplifying operational activities into automated workflows such as _build system_, _stop system_, _start system_, or _failover system_; and keeping this consistent across all system types whether they are clustered, have DR capabilities, or even across different SAP products such as S/4HANA or BW/4HANA. Even OS-specific differences are encapsulated within the workflow, so the user experience is identical nomatter what OS is your preference.
 
 In future posts, I'll explore some of the ways we incorporate IaC practices into our projects and services at [Centiq][centiq].
 
